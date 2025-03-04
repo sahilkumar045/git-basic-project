@@ -1,0 +1,1 @@
+This project is a demonstration of basic Git operations including branching, merging, and conflict resolution.
